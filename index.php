@@ -1,2 +1,2 @@
 <?php
-  die("You cannot be here");
+  die("Should you be here?");
